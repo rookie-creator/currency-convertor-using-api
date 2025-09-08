@@ -1,6 +1,5 @@
 # currency-convertor-using-api
 
-INTRODUCTION
 This is a Currency Converter Web App built with HTML, CSS, and JavaScript. It allows users to convert amounts between different currencies using real-time exchange rates from the Frankfurter API.
 The app features dynamic dropdowns with available currency codes (automatically loaded from the API), a default selection of USD → INR, responsive UI with country flags, and input validation that defaults to 1 if the user input is empty or invalid.
 
